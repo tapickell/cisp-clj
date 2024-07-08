@@ -1,10 +1,10 @@
-# cisp/cisp
+# sicp/sicp
 
 FIXME: my new application.
 
 ## Installation
 
-Download from https://github.com/cisp/cisp
+Download from https://github.com/sicp/sicp
 
 ## Usage
 
